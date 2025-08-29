@@ -252,5 +252,5 @@
   "warning.splitself.PII.disabled": "DISABLED",
   "warning.splitself.PII.enabled": "ENABLED",
   "warning.splitself.PII.toggle": "Toggle PII",
-  "warning.splitself.continue": "Continue"
+  "warning.splitself.continue": "Continue"  
 }
